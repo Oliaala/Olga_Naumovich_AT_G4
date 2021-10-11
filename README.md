@@ -1,1 +1,0 @@
-# Olga_Naumovich_AT_G4
