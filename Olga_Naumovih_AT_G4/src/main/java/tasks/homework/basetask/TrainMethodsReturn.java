@@ -20,7 +20,7 @@ public class TrainMethodsReturn {
     }
 
     public float returnNewFloat(float floatNum3) {
-        float resultNewFloat = floatNum3 /2;
+        float resultNewFloat = floatNum3 / 2;
         return resultNewFloat;
         }
     public double returnNewDouble(double doubleNum3){
@@ -48,7 +48,7 @@ public class TrainMethodsReturn {
         }
 
     }
-    }
+
 
 
 
