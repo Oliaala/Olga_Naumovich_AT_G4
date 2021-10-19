@@ -1,4 +1,4 @@
-package tasks.homework.basetask;
+package tasks.classwork.basetask;
 
 public class TrainMethodsReturn {
     public int returnNewInt(int num3) {
@@ -47,7 +47,13 @@ public class TrainMethodsReturn {
             return t;}
         }
 
+    public String returnNewBoolean(boolean b) {
+
+
+        return null;
     }
+
+}
 
 
 
