@@ -1,4 +1,4 @@
-package tasks.classwork.basetask;
+package tasks.homework.basetask;
 
 public class Mouse {
     private String name;
@@ -25,6 +25,7 @@ public class Mouse {
         this.age = age;
     }
     public void printMouseDetails(){
+        System.out.println("я мышь, меня зовут " + name + " и мне " + age + " лет ");
 
     }
 }

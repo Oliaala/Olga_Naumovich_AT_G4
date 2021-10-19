@@ -1,4 +1,4 @@
-package tasks.classwork.basetask;
+package tasks.homework.basetask;
 
 public class TrainMethodsSting {
     public void printMama() {
