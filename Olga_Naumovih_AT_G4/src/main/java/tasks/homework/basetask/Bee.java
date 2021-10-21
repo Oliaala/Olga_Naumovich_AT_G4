@@ -4,6 +4,11 @@ public class Bee {
     private String gender;
     public long weight;
 
+    public Bee(int weight, String gender) {
+        this.gender = gender;
+        this.weight = weight;
+    }
+
     public long getWeight() {
         return weight;
     }
@@ -20,13 +25,8 @@ public class Bee {
         this.gender = gender;
     }
 
-    public Bee(int weight, String gender) {
-        this.gender = gender;
-        this.weight = weight;
-    }
-
-
     public void printBeeDetails() {
+        System.out.println("я пчела, мой пол" + gender + "и мой вес " + weight + " грамма");
 
     }
 }
