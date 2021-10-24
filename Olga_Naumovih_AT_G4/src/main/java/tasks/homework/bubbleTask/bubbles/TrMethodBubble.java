@@ -4,7 +4,7 @@ public class TrMethodBubble {
 
     public static void main(String[] args) {
 
-        Bubble bubble = new Bubble(5, "переменный");
-        new Bubble(5, "переменный").printBubbleDetails();
+        Bubble bubble = new Bubble(30, "переменный");
+        new Bubble(30, "переменный").printBubbleDetails();
     }
     }
