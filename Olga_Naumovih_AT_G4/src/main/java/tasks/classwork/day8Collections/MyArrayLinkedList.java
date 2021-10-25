@@ -1,4 +1,4 @@
-package tasks.classwork.day8;
+package tasks.classwork.day8Collections;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
