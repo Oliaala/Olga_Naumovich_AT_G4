@@ -1,4 +1,4 @@
-package tasks.homework.ObjectClass;
+package tasks.homework.objectClass;
 
 import java.util.Objects;
 
